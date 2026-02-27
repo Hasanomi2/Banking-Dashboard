@@ -1,3 +1,5 @@
+Banking Dashboard
+
 This interactive Power BI dashboard provides a comprehensive analysis of customer financial behavior, asset strength, and risk exposure using a structured banking dataset.
 The dashboard is designed to deliver executive-level insights into customer segmentation, deposit-loan balance, credit usage patterns, and overall financial stability.#
 
