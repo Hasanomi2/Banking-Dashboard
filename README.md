@@ -49,3 +49,4 @@ Certain age groups demonstrate higher average risk weighting.
 Customers holding multiple credit cards show increased credit expoure.
 
 Loan-to-deposit ratio provides a quick stability indicator of the portfolio.
+https://github.com/Hasanomi2/Banking-Dashboard/blob/main/image.png
